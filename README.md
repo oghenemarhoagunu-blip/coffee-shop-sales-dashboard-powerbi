@@ -6,7 +6,7 @@ This project is an interactive Power BI dashboard built to analyze coffee shop s
 The dashboard was designed with a modern dark theme, custom KPI cards, slicers, and multiple visual types to create a clean and business-friendly reporting experience.
 
 ## Dashboard Preview
-![Coffee Shop Sales Dashboard](coffee_shop_dashboard.png)
+![Coffee Shop Sales Dashboard](Coffee_Shop_Sales_Dashboard.png)
 
 ## Key Insights
 - Total Revenue: $698.8K
@@ -37,7 +37,7 @@ The dashboard was designed with a modern dark theme, custom KPI cards, slicers, 
 
 ## Files Included
 - `Coffee_Shop_Sales_Dashboard.pbix` — Power BI dashboard file
-- `coffee_shop_dashboard.png` — dashboard preview image
+- `coffee_Shop_Dashboard.png` — dashboard preview image
 
 ## Author
 Created by Oghenemarho Agunu
